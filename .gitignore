@@ -1,0 +1,12 @@
+/vendor/
+/var/cache/*
+/var/log/*
+!var/cache/.gitkeep
+!var/log/.gitkeep
+.env
+composer.lock
+.phpunit.result.cache
+.phpunit.cache/
+.phpstan-cache/
+composer.phar
+impl_plan.md

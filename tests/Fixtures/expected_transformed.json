@@ -1,0 +1,25 @@
+[
+    {
+        "order_id": "ORD-001",
+        "customer_name": "Acme Corporation",
+        "customer_email": "orders@acme.com",
+        "order_date": "2024-01-15",
+        "ship_date": "2024-01-18",
+        "order_total": 15750.0,
+        "status": "SHIPPED",
+        "product_description": "Industrial Widget Assembly Kit - Premium Grade with extended warranty and maintenance package included for 24 months",
+        "quantity": 50,
+        "unit_price": 315.0
+    },
+    {
+        "order_id": "ORD-002",
+        "customer_name": "TechStart Inc",
+        "customer_email": "procurement@techstart.io",
+        "order_date": "2024-02-20",
+        "order_total": 8400.0,
+        "status": "PENDING",
+        "product_description": "Cloud Server License Bundle - Enterprise Tier",
+        "quantity": 12,
+        "unit_price": 700.0
+    }
+]
